@@ -1,0 +1,14 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "newsdata": [
+    { "id": "1", "title": "コミック新着情報♪", "releaseDay": "2018.07.17" , "tag":"コミック" ,"icon":"" , "url":""},
+    { "id": "2", "title": "【快活アプリ】店舗会員番号、パスワードを正確に入力しても、ログインができないと思ったら・・・", "releaseDay": "2018.07.16", "tag":"その他" ,"icon":"" , "url":""},
+    { "id": "3", "title": "☆おすすめ☆快活で無料見放題、パソコンで見れる動画サービス９種類♪", "releaseDay": "2018.07.16", "tag":"シネマ・動画" ,"icon":"" , "url":""},
+    { "id": "4", "title": "★おすすめ★快活で無料読み放題、パソコン・スマホで読める電子書籍サービス６種類♪", "releaseDay": "2018.07.16", "tag":"コミック" ,"icon":"" , "url":""},
+    { "id": "5", "title": "【重要】7/13（金）配信の快活アプリクーポンが届かないお客様へ", "releaseDay": "2018.07.13", "tag":"その他" ,"icon":"" , "url":""}
+    { "id": "6", "title": "【AOKI広報ブログ】快活CLUBの女性専用エリアを改めてご紹介！", "releaseDay": "2018.07.12", "tag":"" ,"icon":"店舗情報" , "url":""}
+    { "id": "7", "title": "★大好評★GTX1080/SSD1TB 搭載ハイスペックパソコン 「Mouse Pro Tシリーズ」大量導入中！", "releaseDay": "2018.07.09", "tag":"オンラインゲーム" ,"icon":"" , "url":""}
+    { "id": "8", "title": "大和桜ヶ丘店 2018/7/26（木）11:00 新規オープン[コート・ダジュール大和桜ヶ丘店跡地]", "releaseDay": "2018.07.08", "tag":"店舗情報" ,"icon":"" , "url":""}
+  ]
+}
